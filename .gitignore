@@ -1,12 +1,3 @@
-# Local session and project notes — not for public repo
-.claude/
-CLAUDE.md
-README.md
-UPDATING.md
-reference/inspiration-april2026.txt
-reference/*.tex
-site/.bundle/
-
 site/_site/
 site/.jekyll-cache/
 site/.jekyll-metadata
