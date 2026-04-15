@@ -1,0 +1,23 @@
+title: Julia Berazneva
+tagline: Associate Professor of Economics, Middlebury College
+description: >-
+  Julia Berazneva — Associate Professor of Economics, Middlebury College.
+  Research in environmental and resource economics, sustainable development,
+  and agricultural economics.
+url: https://juliaberazneva.com
+baseurl: ""
+
+markdown: kramdown
+permalink: /:slug/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md

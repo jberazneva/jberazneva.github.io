@@ -1,0 +1,29 @@
+# Edit this file to update positions on the CV/home pages.
+# Entries should be listed newest-first within each group.
+
+current:
+  - title: Associate Professor, Department of Economics
+    institution: Middlebury College
+    url: http://www.middlebury.edu
+    years: 2023–present
+  - title: Co-Director, Vermont Center for Behavioral Science Research on Climate and the Environment
+    url: https://sites.middlebury.edu/vcbsrce/
+    years: 2021–present
+  - title: Faculty Affiliate, Environmental Studies Program
+    institution: Middlebury College
+    years: 2015–present
+  - title: Faculty Affiliate, Program in International Politics & Economics
+    institution: Middlebury College
+    years: 2015–present
+  - title: Visiting Researcher
+    institution: Centro Agronómico Tropical de Investigación y Enseñanza (CATIE)
+    url: https://www.catie.ac.cr/
+    years: Spring 2026
+
+previous:
+  - title: Assistant Professor, Department of Economics
+    institution: Middlebury College
+    years: 2015–2023
+  - title: The Rohatyn Center for Global Affairs Fellow
+    institution: Middlebury College
+    years: 2020–2024

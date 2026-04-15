@@ -1,0 +1,144 @@
+/* --------------------------------------------------------
+   Julia Berazneva — academic site
+   Modeled on ivanrudik.com / germanr.com:
+   Inter, white bg, Middlebury blue accent, minimal ornament.
+--------------------------------------------------------- */
+
+:root {
+  --fg: #111;
+  --muted: #666;
+  --bg: #ffffff;
+  --accent: #0D7C66;        /* deep teal */
+  --max: 52rem;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 16px; }
+
+body {
+  margin: 0;
+  padding: 0;
+  color: var(--fg);
+  background: var(--bg);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---------- Site shell ---------- */
+
+.site-main {
+  max-width: var(--max);
+  margin: 0 auto 4rem;
+  padding: 2rem 1.5rem 0;
+}
+
+/* ---------- Headings ---------- */
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+}
+
+h1 { font-size: 1.875rem; margin: 0 0 0.25rem; }
+h2 { font-size: 1.25rem; margin: 2.75rem 0 1rem; font-weight: 600; }
+h3 { font-size: 1rem;   margin: 1.5rem 0 0.5rem; font-weight: 500; }
+
+p { margin: 0.75rem 0; }
+
+/* ---------- Home header ---------- */
+
+.home-header {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.home-intro { flex: 1 1 360px; min-width: 0; }
+
+.home-intro .name {
+  font-size: 1.875rem;
+  font-weight: 600;
+  margin: 0 0 0.25rem;
+  letter-spacing: -0.01em;
+}
+
+.home-intro .title {
+  color: var(--muted);
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.home-intro .affiliations {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 1.5rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.home-intro .affiliations li { margin: 0.15rem 0; }
+
+.home-bio p:first-child { margin-top: 0.5rem; }
+.home-bio p { margin: 0.75rem 0; }
+
+.home-headshot {
+  flex: 0 0 auto;
+  width: 220px;
+  max-width: 100%;
+}
+.home-headshot img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.home-contact {
+  margin-top: 1.25rem;
+  font-size: 0.95rem;
+}
+.home-contact a { margin-right: 0.5rem; }
+.home-contact .sep { color: var(--muted); margin: 0 0.25rem; }
+
+/* ---------- Publication list ---------- */
+
+.pub-list { list-style: none; padding: 0; margin: 0; }
+.pub-list li {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  line-height: 1.55;
+}
+.pub-list .pub-title {
+  font-weight: 500;
+  color: var(--fg);
+}
+.pub-list .pub-authors { color: var(--fg); }
+.pub-list .pub-venue {
+  color: var(--muted);
+  font-style: italic;
+}
+.pub-list .pub-meta { color: var(--muted); }
+.pub-list .pub-media {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 640px) {
+  .home-header { gap: 1.5rem; }
+  .home-headshot { width: 160px; order: -1; }
+  .home-intro .name { font-size: 1.5rem; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.15rem; }
+  .site-main { padding-top: 2rem; }
+}

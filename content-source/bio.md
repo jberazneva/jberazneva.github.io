@@ -1,0 +1,1 @@
+I study environmental and resource economics, with recent work on soil and forests in Sub-Saharan Africa and on public attitudes toward climate policy in the United States. I teach courses in microeconomic theory, environmental and climate change economics, and environment and development.

@@ -1,0 +1,140 @@
+# Refereed publications. Newest first.
+# `authors` uses Markdown: wrap your own name in ** ** for bolding in the rendered page.
+# Add optional `code`, `ungated`, `media` links as needed.
+
+- authors: "Richard Klotz and Julia Berazneva"
+  year: 2025
+  title: "Correlated Pollutants, Avoidance, and Local Environmental Policy"
+  journal: "The Energy Journal"
+  volume: "46(5)"
+  pages: "85–111"
+  doi: "https://doi.org/10.1177/01956574251330842"
+
+- authors: "Julia Berazneva, Daniel Graeber, Michelle McCauley, Sabine Zinn, and Peter Hans Matthews"
+  year: 2024
+  title: "Moral Bandwidth and Environmental Concerns during a Public Health Crisis: Evidence from Germany"
+  journal: "Journal of Economic Behavior & Organization"
+  volume: "228"
+  pages: "106753"
+  doi: "https://doi.org/10.1016/j.jebo.2024.106753"
+
+- authors: "Julia Berazneva and Tanya S. Byker"
+  year: 2024
+  title: "Impacts of Environmental Degradation: Forest Loss, Malaria, and Child Outcomes in Nigeria"
+  journal: "The Review of Economics and Statistics"
+  volume: "106(5)"
+  pages: "1254–67"
+  doi: "https://doi.org/10.1162/rest_a_01238"
+  media:
+    - title: "VoxDev"
+      url: "https://voxdev.org/topic/health/how-deforestation-drives-malaria-nigeria-affecting-women-and-children-most"
+
+- authors: "Julia Berazneva, Annemie Maertens, Wezi Mhango, and Hope Michelson"
+  year: 2023
+  title: "Paying for Agricultural Information in Malawi: The Role of Soil Heterogeneity"
+  journal: "Journal of Development Economics"
+  volume: "165"
+  pages: "103144"
+  doi: "https://doi.org/10.1016/j.jdeveco.2023.103144"
+
+- authors: "Richard Klotz and Julia Berazneva"
+  year: 2022
+  title: "Local Standards, Behavioral Adjustments, and Welfare: Evaluating California's Ocean-Going Vessel Fuel Rule"
+  journal: "Journal of the Association of Environmental and Resource Economists"
+  volume: "9(3)"
+  pages: "383–424"
+  doi: "https://doi.org/10.1086/717585"
+
+- authors: "Julia Berazneva, Dominic Woolf, and David R. Lee"
+  year: 2021
+  title: "Local Lignocellulosic Biofuel and Biochar Co-Production in Sub-Saharan Africa: The Role of Feedstock Provision in Economic Viability"
+  journal: "Energy Economics"
+  volume: "93"
+  pages: "105031"
+  doi: "https://doi.org/10.1016/j.eneco.2020.105031"
+
+- authors: "Julia Berazneva, Jon Conrad, David Güereña, Johannes Lehmann, and Dominic Woolf"
+  year: 2019
+  title: "Agricultural Productivity and Soil Carbon Dynamics: A Bioeconomic Model"
+  journal: "American Journal of Agricultural Economics"
+  volume: "101(4)"
+  pages: "1021–46"
+  doi: "https://doi.org/10.1093/ajae/aaz014"
+
+- authors: "Julia Berazneva and David Güereña"
+  year: 2019
+  title: "Soil Management for Smallholders: Lessons from Kenya and Nepal"
+  journal: "Choices"
+  volume: "34(2)"
+  url: "http://www.choicesmagazine.org/choices-magazine/theme-articles/soil-health-policy-in-the-united-states-and-abroad/soil-management-for-smallholders-lessons-from-kenya-and-nepal"
+
+- authors: "David Murphy, Julia Berazneva, and David R. Lee"
+  year: 2018
+  title: "Fuelwood Source Substitution, Gender, and Shadow Prices in Western Kenya"
+  journal: "Environment and Development Economics"
+  volume: "23(6)"
+  pages: "655–78"
+  doi: "https://doi.org/10.1017/S1355770X1800027X"
+
+- authors: "Julia Berazneva, David R. Lee, Frank Place, and George Jakubson"
+  year: 2018
+  title: "Allocation and Valuation of Smallholder Maize Residues in Western Kenya"
+  journal: "Ecological Economics"
+  volume: "152"
+  pages: "172–182"
+  doi: "https://doi.org/10.1016/j.ecolecon.2018.05.024"
+
+- authors: "Julia Berazneva, Linden McBride, Megan Sheahan, and David Güereña"
+  year: 2018
+  title: "Empirical Assessment of Subjective and Objective Soil Fertility Metrics in East Africa: Implications for Researchers and Policy Makers"
+  journal: "World Development"
+  volume: "105"
+  pages: "367–382"
+  doi: "https://doi.org/10.1016/j.worlddev.2017.12.009"
+
+- authors: "Julia Berazneva and Tanya S. Byker"
+  year: 2017
+  title: "Does Forest Loss Increase Human Disease? Evidence from Nigeria"
+  journal: "American Economic Review P&P"
+  volume: "107(5)"
+  pages: "516–21"
+  doi: "https://doi.org/10.1257/aer.p20171132"
+
+- authors: "David Güereña, Henry Neufeldt, Julia Berazneva, and Sam Duby"
+  year: 2015
+  title: "Water Hyacinth Control in Lake Victoria: Transforming an Ecological Catastrophe into Economic, Social, and Environmental Benefits"
+  journal: "Sustainable Production and Consumption"
+  volume: "3"
+  pages: "59–69"
+  doi: "https://doi.org/10.1016/j.spc.2015.06.003"
+
+- authors: "Julia Berazneva"
+  year: 2014
+  title: "Audio Recording of Household Interviews to Ensure Data Quality"
+  journal: "Journal of International Development"
+  volume: "26(2)"
+  pages: "290–296"
+  doi: "https://doi.org/10.1002/jid.2961"
+
+- authors: "Julia Berazneva and David R. Lee"
+  year: 2013
+  title: "Explaining the African Food Riots of 2007–2008: An Empirical Analysis"
+  journal: "Food Policy"
+  volume: "39"
+  pages: "28–39"
+  doi: "https://doi.org/10.1016/j.foodpol.2012.12.007"
+
+- authors: "David R. Lee, Julia Berazneva, and Muna Ndulo"
+  year: 2011
+  title: "Africa's Dual Crises: The Food and Financial Crises and Their Effects in Sub-Saharan Africa—Introduction and Overview"
+  type: book_chapter
+  in: "The Food and Financial Crises in Sub-Saharan Africa: Origins, Impacts and Policy"
+  editors: "David R. Lee and Muna Ndulo"
+  publisher: "CABI, Wallingford, Oxfordshire and Cambridge, MA"
+
+- authors: "Janice Brodman and Julia Berazneva"
+  year: 2007
+  title: "Transforming Opportunities for Women Entrepreneurs"
+  journal: "Information Technologies & International Development"
+  volume: "4(2)"
+  pages: "3–10"

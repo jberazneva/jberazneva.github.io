@@ -1,0 +1,21 @@
+# Local session and project notes — not for public repo
+.claude/
+CLAUDE.md
+README.md
+UPDATING.md
+reference/inspiration-april2026.txt
+reference/*.tex
+site/.bundle/
+
+site/_site/
+site/.jekyll-cache/
+site/.jekyll-metadata
+site/vendor/
+site/Gemfile.lock
+.DS_Store
+
+# Local-preview-only shadow copies/symlinks: the GitHub Action writes real
+# copies here at build time, so these must not be committed.
+site/_data/*.yml
+site/_includes/bio.md
+site/assets/files/cv.pdf
